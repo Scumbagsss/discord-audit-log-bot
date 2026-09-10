@@ -1,0 +1,16 @@
+{
+  "_note": "Sanitized portfolio example. Production values and implementation are private.",
+  "enabled": true,
+  "discord": {
+    "guild_id": 0,
+    "channel_id": 0,
+    "staff_role_ids": []
+  },
+  "storage": {
+    "type": "private-production-adapter"
+  },
+  "integrations": {
+    "enabled": false,
+    "endpoint": "https://example.invalid/private-adapter"
+  }
+}
